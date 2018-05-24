@@ -20,14 +20,14 @@ Article: [
         .title: {By Categories:}
         .links: [
             {books} #./books
-            {documentaries (coming soon...)} #./documentaries            
+            {documentaries (coming soon...)} %./documentaries            
         ]      
     ]
 
     By-Date: [
         .title: {By Dates:}
         .links: [
-            {2018.05} #./2018.05         
+            {2018.05} %./2018.05         
         ]      
     ]
 ]
