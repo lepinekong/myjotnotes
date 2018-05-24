@@ -50,7 +50,7 @@ Journal: [
         .title: {[p.10] Robert Bell}
         .text: {Citation de Robert Bell, professeur en Management en 1998, écrit les 7 "péchés capitaux de la haute technologie" (Editions Seuil, 1998) dans les grands projets industriels de l'époque:}
         .text: {
-            - Abolition des contrôles
+            - Abolition des contrôles ![icon](https://cdn4.iconfinder.com/data/icons/free-game-icons/64/Unlock.png)
             - La Construction avant la Conception
             - La Mainmise des Fournisseurs
             - Le non-partage des Risques dans les Contrats
