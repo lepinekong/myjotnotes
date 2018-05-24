@@ -3,7 +3,7 @@ Red [
     File: %index.red
 ]
 
-Article: [
+Journal: [
 
     Title: {My Jotnotes index}
 
@@ -12,9 +12,7 @@ Article: [
         .text: {[http://myjotnotes.space/index.red](https://github.com/lepinekong/myjotnotes/blob/master/index.red)
         }
         .Published-Url: http://myjotnotes.space/Books/index
-    ]      
-    
-
+    ]    
 
     By-Categories: [
         .title: {By Categories:}
@@ -22,12 +20,12 @@ Article: [
             {books} #./books
             {documentaries (coming soon...)} #./documentaries            
         ]      
-    ]
+    ]      
 
     By-Date: [
         .title: {By Dates:}
         .links: [
-            {2018.05} #./2018.05         
+            {2018.05.18} #./2018.05.18         
         ]      
     ]
 ]
