@@ -9,11 +9,9 @@
 
 ### By Categories:
 
-- [books](.none)
+- [books](./books)
                         
-- [books](documentaries (coming soon...))
-                        
-- [./documentaries](./documentaries)
+- [documentaries (coming soon...)](./documentaries)
                         
 
 ### By Dates:

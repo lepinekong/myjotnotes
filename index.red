@@ -15,11 +15,10 @@ Article: [
     ]      
     
 
-
     By-Categories: [
         .title: {By Categories:}
         .links: [
-            {books} #./books
+            {books} %./books
             {documentaries (coming soon...)} %./documentaries            
         ]      
     ]
