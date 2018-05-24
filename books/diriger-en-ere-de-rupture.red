@@ -47,7 +47,8 @@ Journal: [
     ]
 
     p.10: [
-        .title: {[p.10] Citation de Robert Bell, professeur en Management en 1998, écrit les 7 "péchés capitaux de la haute technologie" (Editions Seuil, 1998) dans les grands projets industriels de l'époque:}
+        .title: {[p.10] Robert Bell}
+        .text: {Citation de Robert Bell, professeur en Management en 1998, écrit les 7 "péchés capitaux de la haute technologie" (Editions Seuil, 1998) dans les grands projets industriels de l'époque:}
         .text: {
             - Abolition des contrôles
             - La Construction avant la Conception
