@@ -23,7 +23,7 @@ Journal: [
     Links: [
         .title: {List of Books:}
         .links: [
-            {Diriger en ère de rupture} #./diriger-en-ere-de-rupture
+            {Diriger en ère de rupture} %./diriger-en-ere-de-rupture
         ]      
     ]
 

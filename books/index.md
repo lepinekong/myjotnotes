@@ -15,7 +15,5 @@ This is the space where I jot some notes on Books I'm reading.
 
 ### List of Books:
 
-- [Diriger en ère de rupture](.none)
-                        
-- [diriger-en-ere-de-rupture](none)
+- [Diriger en ère de rupture](./diriger-en-ere-de-rupture)
                         
